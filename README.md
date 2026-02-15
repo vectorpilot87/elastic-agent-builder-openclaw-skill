@@ -99,13 +99,15 @@ The skill supports:
 
 # Example: Property Management Agent
 
-Below is an example interaction with a property management agent powered
-by Elastic Agent Builder.
+Below is an example interaction with a property management agent powered by Elastic Agent Builder.
 
-The agent answers real operational questions such as:
+The underlying property and financial data is stored in Elasticsearch.  
+The agent queries that indexed data to compute answers.
 
--   “What is the average rent payment?”
--   “What are the average utility costs?”
+Example questions:
+
+- “What is the average rent payment?”
+- “What are the average utility costs?”
 
 ![Example Conversation](images/example.png)
 
