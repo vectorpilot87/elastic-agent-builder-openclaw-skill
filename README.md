@@ -11,7 +11,6 @@ This skill allows OpenClaw to:
 -   Route user prompts to specific Elastic agents
 -   Persist conversation state using `conversation_id`
 -   Support Kibana Spaces
--   Override connectors and configuration dynamically
 
 Rather than being just a script wrapper, this skill acts as a
 conversational bridge between OpenClaw and Elastic’s Agent Builder
