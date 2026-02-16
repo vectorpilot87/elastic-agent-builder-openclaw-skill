@@ -7,7 +7,6 @@ An OpenClaw skill that enables direct conversational interaction with
 This skill allows OpenClaw to:
 
 -   Discover available Agent Builder agents
--   Maintain multi-turn conversations
 -   Route user prompts to specific Elastic agents
 -   Persist conversation state using `conversation_id`
 -   Support Kibana Spaces
