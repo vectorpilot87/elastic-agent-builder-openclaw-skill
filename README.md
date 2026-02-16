@@ -22,7 +22,6 @@ platform.
 Once installed, OpenClaw can:
 
 -   Query real data-backed agents
--   Maintain conversational context across multiple turns
 -   Dynamically switch between different Elastic agents
 -   Reset conversations when needed
 -   Integrate Elastic-powered reasoning directly into your OpenClaw
