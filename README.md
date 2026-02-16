@@ -1,7 +1,7 @@
 # OpenClaw Elastic Agent Builder Skill
 
 An OpenClaw skill that enables direct conversational interaction with 
-[Elastic Agent Builder](https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder) agents running in Kibana.
+[Elastic Agent Builder](https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder) agents.
 
 
 This skill allows OpenClaw to:
